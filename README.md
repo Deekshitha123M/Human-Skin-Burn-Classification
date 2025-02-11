@@ -45,20 +45,20 @@ The app will be accessible at `http://localhost:5000`, where you can upload imag
 
 ## Screenshots
 
-### User Login Page
-![User Login](images/User_Login.png)
+### Image Upload Page
+![Image Upload Page](image/Image_Upload.png)
 
-### User Register
-![User Register](images/User_Register.png)
+### Result
+![Result](image/first.png)
 
-### Admin Login Page
-![Admin Login](images/Admin_Login.png)
 
-### Admin Dashboard
-![Admin Dashboard](images/Admin_Dashboard.png)
+![Result](image/second.png)
 
-### Courier Booking Page
-![Courier Booking](images/Courier_Booking.png)
+
+![Result](image/third.png)
+
+
+![Result](image/noburn.png)
 
 
 
