@@ -43,6 +43,23 @@ python app.py
 
 The app will be accessible at `http://localhost:5000`, where you can upload images and receive burn severity predictions.
 
+## Screenshots
+
+### User Login Page
+![User Login](images/User_Login.png)
+
+### User Register
+![User Register](images/User_Register.png)
+
+### Admin Login Page
+![Admin Login](images/Admin_Login.png)
+
+### Admin Dashboard
+![Admin Dashboard](images/Admin_Dashboard.png)
+
+### Courier Booking Page
+![Courier Booking](images/Courier_Booking.png)
+
 
 
  
